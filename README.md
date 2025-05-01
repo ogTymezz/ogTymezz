@@ -1,5 +1,4 @@
 # 🔨💾 C# ++ HTMLCSSJS maker
-<!---
-ogTymezz/ogTymezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## If there issues please report it❗
+
+# Do it *#1 maker*
